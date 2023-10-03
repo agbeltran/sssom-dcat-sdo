@@ -1,4 +1,4 @@
-subject_id	predicate_id	object_id	match_type	subject_label	object_label	mapping_date	author_id	subject_source	subject_source_version	object_source	object_source_version		object_source_version	confidence
-dcat:Resource	skos:narrowMatch	sdo:Thing	semapv:ManualMappingCuration	Resource	Thing	03/10/2023	https://orcid.org/0000-0003-3499-8262	https://www.w3.org/TR/vocab-dcat-3/	3	https://schema.org/		
-dcterms:title	skos:narrowMatch	sdo:name	semapv:ManualMappingCuration	title	name	03/10/2023	https://orcid.org/0000-0003-3499-8262	https://www.w3.org/TR/vocab-dcat-3/	3	https://schema.org/		
-dcterms:description	skos:closeMatch	sdo:description	semapv:LexicalMatching	description	description	03/10/2023	https://orcid.org/0000-0003-3499-8262	https://www.w3.org/TR/vocab-dcat-3/	3	https://schema.org/		
+subject_id	predicate_id	object_id	mapping_justification	subject_label	object_label	mapping_date	author_id	subject_source	subject_source_version	object_source	object_source_version		object_source_version	confidence
+dcat:Resource	skos:narrowMatch	sdo:Thing	semapv:ManualMappingCuration	Resource	Thing	2023-10-03	https://orcid.org/0000-0003-3499-8262	https://www.w3.org/TR/vocab-dcat-3/	3	https://schema.org/		
+dcterms:title	skos:narrowMatch	sdo:name	semapv:ManualMappingCuration	title	name	2023-10-03	https://orcid.org/0000-0003-3499-8262	https://www.w3.org/TR/vocab-dcat-3/	3	https://schema.org/		
+dcterms:description	skos:closeMatch	sdo:description	semapv:LexicalMatching	description	description	2023-10-03	https://orcid.org/0000-0003-3499-8262	https://www.w3.org/TR/vocab-dcat-3/	3	https://schema.org/		

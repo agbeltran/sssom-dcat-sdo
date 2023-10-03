@@ -4,8 +4,18 @@ A repository for the SSSOM mapping between DCAT and SDO
 
 # installation
 
+SSSOM works for Python >=3.8, <3.12.
+
 ```
-virtualenv venv
+python3 -m virtualenv venv
 source venv/bin/activate
-pip install -r requirements.txt
+python3 -m pip install -r requirements.txt 
+```
+
+```
+sssom parse dcat-sdo-sssom.tsv
+```
+
+```
+deactivate
 ```
