@@ -1,0 +1,14 @@
+curie_map:
+  dcat: http://www.w3.org/ns/dcat#
+  dcterms: http://purl.org/dc/terms/
+  sdo: https://schema.org/
+  owl: http://www.w3.org/2002/07/owl#
+  rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
+  rdfs: http://www.w3.org/2000/01/rdf-schema#
+  semapv: https://w3id.org/semapv/vocab/
+  skos: http://www.w3.org/2004/02/skos/core#
+  sssom: https://w3id.org/sssom/  
+license: https://creativecommons.org/licenses/by/4.0/
+mapping_date: '2023-10-03'
+mapping_set_description: Manually curated mapping between DCAT and SDO, based on the mapping given in the DCAT specification
+mapping_set_version: '2023-10-03'
