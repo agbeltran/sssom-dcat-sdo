@@ -16,8 +16,10 @@ python3 -m pip install -r requirements.txt
 To parse the mapping use:
 ```
 sssom parse dcat-sdo-sssom.tsv -m dcat-sdo-sssom.yml 
+sssom parse dcat-sdo-owl-sssom.tsv -m dcat-sdo-owl-sssom.yml 
 ```
 
+To convert the mappings into OWL
 ```
 sssom convert dcat-sdo-sssom.tsv --output dcat-sdo-sssom.owl --output-format owl
 ```
