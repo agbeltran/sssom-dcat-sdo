@@ -1,5 +1,5 @@
 # sssom-dcat-sdo
-A repository for the [SSSOM](https://mapping-commons.github.io/sssom/spec/) mapping between DCAT and SDO
+A repository for the [SSSOM](https://mapping-commons.github.io/sssom/spec/) mapping between [DCAT](https://w3c.github.io/dxwg/dcat/) and SDO
 
 
 # installation
